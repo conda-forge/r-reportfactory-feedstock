@@ -1,11 +1,11 @@
-About r-reportfactory
-=====================
+About r-reportfactory-feedstock
+===============================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-reportfactory-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/reconverse/reportfactory
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-reportfactory-feedstock/blob/main/LICENSE.txt)
 
 Summary: Provides an infrastructure for handling multiple R Markdown reports, including automated curation and time-stamping of outputs, parameterisation and provision of helper functions to manage dependencies.
 
